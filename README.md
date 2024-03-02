@@ -1,5 +1,5 @@
 # Learn Python
-Links, books, videos and any other resources for learning python programming
+Links, books, videos and any other resources for learning python programming. Updated over time; here's a start at it!
 
 ## Documentation
 https://www.python.org/doc/  -- which has lots of stuff and a link to https://docs.python.org/3/
