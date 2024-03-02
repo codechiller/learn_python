@@ -1,4 +1,4 @@
-# learn_python
+# Learn Python
 Links, books, videos and any other resources for learning python programming
 
 ## Documentation
